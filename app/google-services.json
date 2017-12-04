@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "758738907686",
+    "firebase_url": "https://fir-examplefcm.firebaseio.com",
+    "project_id": "fir-examplefcm",
+    "storage_bucket": "fir-examplefcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758738907686:android:e99e4aaadaedabee",
+        "android_client_info": {
+          "package_name": "com.abhishek.firebaseexamplefcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758738907686-faa4jiru5l6d2j2trpgiauus4g7kkg1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALkD72tHWpd6sGcOwNPzUBDaz2x73qK8c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
